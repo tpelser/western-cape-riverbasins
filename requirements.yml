@@ -1,0 +1,14 @@
+name: mapping
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pandas
+  - geopandas
+  - matplotlib
+  - rasterio
+  - elevation
+  - shapely
+  - pip
+  - pip:
+    - rpy2
