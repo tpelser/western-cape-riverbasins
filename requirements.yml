@@ -6,9 +6,5 @@ dependencies:
   - pandas
   - geopandas
   - matplotlib
-  - rasterio
-  - elevation
-  - shapely
+  - numpy
   - pip
-  - pip:
-    - rpy2
