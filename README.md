@@ -34,4 +34,5 @@ PLEASE ENSURE THAT YOU FIRST RUN THE PYTHON SCRIPT AND THEN THE R SCRIPT.
 - **Data Processing:** Clipping of rivers and basins data to the Western Cape region using geospatial analysis techniques.
 - **Visualization:** Generating 2D and 3D high-quality renderings of the data. The final result is:
 
-![Western_Cape_river_basins](https://github.com/tpelser/western-cape-riverbasins/assets/16206183/0d50ac5e-a9d5-4b1e-9b8d-1dd27bf0558f)
+
+![Western_Cape_river_basins](https://github.com/tpelser/western-cape-riverbasins/assets/16206183/0054baa1-c953-4f4c-90d9-3ae3f6297c51)
